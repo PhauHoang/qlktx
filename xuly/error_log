@@ -1,0 +1,128 @@
+[08-Jun-2024 01:56:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 20
+[08-Jun-2024 01:57:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 20
+[08-Jun-2024 02:09:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 20
+[08-Jun-2024 02:16:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 20
+[08-Jun-2024 02:18:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 20
+[08-Jun-2024 02:19:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 20
+[08-Jun-2024 02:20:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 21
+[08-Jun-2024 02:21:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 21
+[08-Jun-2024 02:22:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 23
+[08-Jun-2024 02:22:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 23
+[08-Jun-2024 02:25:33 UTC] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 39
+[08-Jun-2024 02:25:33 UTC] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 39
+[08-Jun-2024 02:25:39 UTC] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 39
+[08-Jun-2024 02:25:39 UTC] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 39
+[08-Jun-2024 02:25:44 UTC] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 39
+[08-Jun-2024 02:25:44 UTC] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 39
+[08-Jun-2024 10:26:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 9
+[08-Jun-2024 10:26:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 13
+[08-Jun-2024 10:31:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 9
+[08-Jun-2024 10:31:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 13
+[08-Jun-2024 10:34:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 10:34:43 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 10:35:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 10:39:27 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 11:44:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 04:44:50 UTC] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 13
+[08-Jun-2024 04:44:50 UTC] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 20
+[08-Jun-2024 04:45:37 UTC] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 13
+[08-Jun-2024 11:49:14 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 11:49:19 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 05:02:02 UTC] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 13
+[08-Jun-2024 12:02:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 05:29:14 UTC] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 13
+[08-Jun-2024 05:35:27 UTC] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 13
+[08-Jun-2024 08:56:08 UTC] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 13
+[08-Jun-2024 09:00:37 UTC] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 13
+[08-Jun-2024 16:01:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/traphong.php on line 10
+[08-Jun-2024 09:04:24 UTC] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkyphong.php on line 13
+[08-Jun-2024 16:08:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:08:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: maphong in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 32
+[08-Jun-2024 16:08:30 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 35
+[08-Jun-2024 16:08:30 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 60
+[08-Jun-2024 16:08:30 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 62
+[08-Jun-2024 16:08:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:08:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: maphong in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 32
+[08-Jun-2024 16:08:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 35
+[08-Jun-2024 16:08:53 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 60
+[08-Jun-2024 16:08:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 62
+[08-Jun-2024 16:09:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:09:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: maphong in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 32
+[08-Jun-2024 16:09:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: map in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 35
+[08-Jun-2024 16:09:45 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 60
+[08-Jun-2024 16:09:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 62
+[08-Jun-2024 16:10:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:22 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:10:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:16:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:16:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:16:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:16:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:16:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 64
+[08-Jun-2024 16:16:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 66
+[08-Jun-2024 16:17:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:17:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:17:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 64
+[08-Jun-2024 16:17:37 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 66
+[08-Jun-2024 16:18:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:18:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:18:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 64
+[08-Jun-2024 16:18:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 66
+[08-Jun-2024 16:19:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:19:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:19:01 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 64
+[08-Jun-2024 16:19:01 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 66
+[08-Jun-2024 16:20:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:20:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:20:56 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 64
+[08-Jun-2024 16:20:56 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 66
+[08-Jun-2024 16:21:49 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:21:52 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:22:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:22:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:22:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:22:44 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:22:44 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 67
+[08-Jun-2024 16:22:44 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 69
+[08-Jun-2024 16:23:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:23:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:23:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: con in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 39
+[08-Jun-2024 16:23:00 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 39
+[08-Jun-2024 16:23:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:23:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:23:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: con in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 39
+[08-Jun-2024 16:23:03 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 39
+[08-Jun-2024 16:23:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:23:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:23:06 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: con in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 39
+[08-Jun-2024 16:23:06 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 39
+[08-Jun-2024 16:23:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:23:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:23:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:23:27 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:24:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:24:42 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:24:42 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 74
+[08-Jun-2024 16:24:42 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 76
+[08-Jun-2024 16:25:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:25:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 20
+[08-Jun-2024 16:26:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:26:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 21
+[08-Jun-2024 16:27:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:27:01 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 21
+[08-Jun-2024 16:27:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:27:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 21
+[08-Jun-2024 16:29:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:29:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 21
+[08-Jun-2024 16:30:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: NgayDangKy in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 14
+[08-Jun-2024 16:31:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 22
+[08-Jun-2024 16:31:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 22
+[08-Jun-2024 16:41:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: sno in /home/spamgare/demo.laikacafe.online/xuly/dangkychuyenphong.php on line 35
